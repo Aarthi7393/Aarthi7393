@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-## About Me
 
-Automotive Engineer transitioning into Data Analytics 📊 | Currently upskilling through a Data Analyst course | Learning Python, SQL & data visualization | Strong project management background | Passionate about turning data into actionable insights | Always eager to learn and explore new technologies 🚀
+## About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Automotive+Engineer+%F0%9F%9A%97;Transitioning+to+Data+Analytics+%F0%9F%93%8A;Learning+Python+%26+SQL;Strong+Project+Management+Skills;Passionate+about+Data-Driven+Insights;Always+Eager+to+Learn+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 ## 🔍 Find Me On
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi-murugan-b1017912b/)
