@@ -25,5 +25,5 @@ Automotive Engineer transitioning into Data Analytics 📊 | Currently upskillin
 ![Intel Ultra 7](https://img.shields.io/badge/Intel_Ultra_7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarthi7393&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthi7393&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarthi7393&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthi7393&layout=compact&theme=tokyonight)
