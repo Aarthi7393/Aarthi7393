@@ -2,7 +2,7 @@
 
 
 ## About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&duration=500&color=36BCF7&width=600&lines=Automotive+Engineer+transitioning+to+Data+Analytics;Learning+Python+and+SQL;Strong+Project+Management+Background;Passionate+about+turning+data+into+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=3000&color=36BCF7&width=600&lines=Automotive+Engineer+transitioning+to+Data+Analytics;Learning+Python+and+SQL;Strong+Project+Management+Background;Passionate+about+turning+data+into+insights)](https://git.io/typing-svg)
 
 
 ## 🔍 Find Me On
