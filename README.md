@@ -2,7 +2,7 @@
 
 
 ## About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=3000&color=36BCF7&width=600&lines=Automotive+Engineer+with+10+years+of+experience;Computer+Science+Engineering+Graduate;Transitioning+to+Data+Analytics;Skills+gained+in+Python+and+SQL;Strong+Project+Management+Background;Passionate+about+turning+data+into+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=3000&color=36BCF7&width=600&lines=Automotive+Engineer+with+10+years+of+experience;Computer+Science+Engineering+Graduate;Transitioning+to+Data+Analytics;Skills+gained+in+Python+and+SQL;Passionate+about+turning+data+into+insights)](https://git.io/typing-svg)
 
 ## 🔍 Find Me On
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi-murugan-b1017912b/)
